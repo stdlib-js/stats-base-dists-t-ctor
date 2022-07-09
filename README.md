@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.T;
+})();
 })();
 </script>
 ```
@@ -295,6 +297,7 @@ y = t.quantile( 1.9 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-ctor@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var t = new T( 2.0 );
 
@@ -310,6 +313,7 @@ var s2 = t.variance;
 var y = t.cdf( 0.8 );
 // returns ~0.746
 
+})();
 })();
 </script>
 </body>
