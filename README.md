@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import T from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-ctor@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-t-ctor/tags). For example,
+
+```javascript
 import T from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-ctor@v0.1.0-esm/index.mjs';
 ```
 
@@ -281,7 +286,7 @@ y = t.quantile( 1.9 );
 <body>
 <script type="module">
 
-import T from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-ctor@v0.1.0-esm/index.mjs';
+import T from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-ctor@esm/index.mjs';
 
 var t = new T( 2.0 );
 
