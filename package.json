@@ -49,7 +49,7 @@
     "@stdlib/stats-base-dists-t-pdf": "^0.1.0",
     "@stdlib/stats-base-dists-t-quantile": "^0.1.0",
     "@stdlib/stats-base-dists-t-skewness": "^0.1.1",
-    "@stdlib/stats-base-dists-t-stdev": "^0.1.0",
+    "@stdlib/stats-base-dists-t-stdev": "^0.1.1",
     "@stdlib/stats-base-dists-t-variance": "^0.1.1",
     "@stdlib/string-format": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.1.1",
