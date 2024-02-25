@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import T from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-ctor@esm/index.mjs';
+import T from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-ctor@v0.2.1-esm/index.mjs';
 ```
 
 #### T( \[v] )
@@ -281,7 +281,7 @@ y = t.quantile( 1.9 );
 <body>
 <script type="module">
 
-import T from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-ctor@esm/index.mjs';
+import T from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-ctor@v0.2.1-esm/index.mjs';
 
 var t = new T( 2.0 );
 
