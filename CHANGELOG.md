@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-10)
+## Unreleased (2026-01-29)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b2ded58`](https://github.com/stdlib-js/stdlib/commit/b2ded58e47be1142dc7a054df093d77feeb49bf1) - **bench:** update random value generation [(#9925)](https://github.com/stdlib-js/stdlib/pull/9925) _(by Harsh Yadav)_
 -   [`4b9e370`](https://github.com/stdlib-js/stdlib/commit/4b9e370719620bef34b850abf218d4d065e650d8) - **bench:** refactor random number generation in `stats/base/dists/t` [(#8833)](https://github.com/stdlib-js/stdlib/pull/8833) _(by Sagar Ratna Chaudhary)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 
@@ -37,8 +38,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh Yadav
 -   Philipp Burckhardt
 -   Sagar Ratna Chaudhary
 
